@@ -6,7 +6,7 @@ date: 2024-11-12T01:00:00Z
 image: /images/post/conseil-de-prudhommes.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le Conseil de Prud'hommes est une institution essentielle pour la protection des droits des salariés en France. Que vous soyez un travailleur confronté à une dispute avec votre employeur ou un avocat cherchant à approfondir ses connaissances sur ce sujet, comprendre le fonctionnement des conseils de prud'hommes ainsi que le rôle d'un avocat spécialisé est crucial. Cet article propose une vue d'ensemble complète sur le sujet, en passant par les rôles d'un avocat, les procédures devant le Conseil, les droits des employés et la façon dont les différends peuvent être résolus.

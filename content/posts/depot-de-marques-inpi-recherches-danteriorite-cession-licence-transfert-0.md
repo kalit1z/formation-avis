@@ -6,7 +6,7 @@ date: 2024-10-19T01:00:00Z
 image: /images/post/depot-de-marques-inpi-recherches-danteriorite-cession-licence-transfert-0.webp
 categories: ["entrepreneuriat"]
 featured: true
-draft: false
+draft: true
 ---
 
 Dans le monde des affaires, protéger sa marque est essentiel pour assurer une identité forte et éviter les litiges. La **recherche de marque INPI** est une étape cruciale avant de déposer votre marque. Cet article vous guidera à travers les différentes étapes de cette recherche, en vous fournissant des informations clés sur le dépôt de marque et les procédures à suivre.

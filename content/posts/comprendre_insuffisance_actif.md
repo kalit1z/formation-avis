@@ -6,7 +6,7 @@ date: 2024-11-06T01:00:00Z
 image: /images/post/comprendre_insuffisance_actif.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 L'insuffisance d'actif est une situation complexe qui touche de nombreuses entreprises, aussi bien petites que grandes. Elle se définit par le fait qu'une société ne dispose pas d'actifs suffisants pour régler ses dettes. Cette problématique soulève des enjeux juridiques, financiers et stratégiques majeurs qu'il est crucial de comprendre. Dans cet article, nous allons explorer les divers aspects de l'insuffisance d'actif, notamment ses causes, ses conséquences et les solutions envisageables pour y faire face.

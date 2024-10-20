@@ -6,7 +6,7 @@ date: 2024-11-13T01:00:00Z
 image: /images/post/contrat_temps_partiel.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Dans un contexte professionnel en constante évolution, le contrat de travail à temps partiel offre une flexibilité précieuse tant pour les employeurs que pour les salariés. Ce modèle de contrat permet d'adapter le temps de travail aux besoins et contraintes de chacun, mais il peut aussi soulever des questions légales et pratiques. Cet article vise à clarifier les différents aspects du contrat à temps partiel, y compris les dérogations, les durées minimales, et les implications pour les salariés concernés.

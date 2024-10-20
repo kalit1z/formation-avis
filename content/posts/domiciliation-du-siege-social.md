@@ -6,7 +6,7 @@ date: 2024-11-28T01:00:00Z
 image: /images/post/domiciliation-du-siege-social.webp
 categories: ["entrepreneuriat"]
 featured: true
-draft: false
+draft: true
 ---
 
 La domiciliation du siège social est une étape cruciale lors de la création d'une entreprise en France. Elle définit l'adresse administrative et juridique de l’entreprise, ce qui peut avoir des implications importantes pour son développement. Le choix de cette adresse ne se fait pas à la légère ; cela implique des enjeux fiscaux, juridiques et d’image. Cet article aborde en profondeur les différents aspects de la domiciliation du siège social.

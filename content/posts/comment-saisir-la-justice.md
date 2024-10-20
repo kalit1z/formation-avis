@@ -6,7 +6,7 @@ date: 2024-11-01T01:00:00Z
 image: /images/post/comment-saisir-la-justice.webp
 categories: ["aide"]
 featured: true
-draft: false
+draft: true
 ---
 
 Lorsqu'une personne se trouve confrontée à un litige et souhaite faire valoir ses droits, l’acte d'assigner en justice s'avère essentiel. Cela implique de saisir un tribunal afin d'obtenir réparation ou de faire respecter une obligation. Cet article est un guide complet qui répondra aux diverses interrogations sur la procédure d’assignation, les différences entre requête et assignation, et la meilleure manière de saisir la justice en France.

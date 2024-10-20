@@ -6,7 +6,7 @@ date: 2024-11-17T01:00:00Z
 image: /images/post/delai_reponse_inspection_travail.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le licenciement d'un salarié protégé est un processus complexe qui nécessite une attention particulière de la part des employeurs. Ce type de licenciement est encadré par des règles strictes, et l'intervention de l'inspection du travail est souvent nécessaire. Comprendre le délai de réponse de l'inspection du travail dans ce cadre est crucial pour les employeurs et les salariés. Dans cet article, nous allons explorer en détail les différentes phases du processus, y compris les délais de réponse, les implications légales, et les recours possibles.

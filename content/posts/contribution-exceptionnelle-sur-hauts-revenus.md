@@ -6,7 +6,7 @@ date: 2024-11-13T01:00:00Z
 image: /images/post/contribution-exceptionnelle-sur-hauts-revenus.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 La contribution sur les hauts revenus est un sujet qui suscite de nombreuses discussions dans le paysage fiscal français. Alors que les inégalités de revenus continuent d'attirer l’attention des économistes et des décideurs politiques, un cadre précis s’établit pour comprendre comment cette contribution impacte non seulement les contribuables concernés, mais également l'ensemble de la société. En France, des mesures spécifiques telles que la taxe sur les hauts revenus visent à redistribuer les richesses et à financer des services publics essentiels.

@@ -6,7 +6,7 @@ date: 2024-10-27T01:00:00Z
 image: /images/post/changement-de-nom-ou-de-prenom.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 Changer de prénom peut s'avérer être une démarche nécessaire pour de nombreuses personnes, qu'il s'agisse de raisons identitaires, affectives, ou simplement personnelles. En France, cette procédure est encadrée par un cadre légal précis, permettant aux citoyens d'initier ce processus sous certaines conditions. Cet article vous propose un guide complet sur la question du changement de prénom, notamment les démarches à suivre, les délais, et les aspects juridiques à prendre en compte.

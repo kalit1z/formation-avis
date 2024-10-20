@@ -6,7 +6,7 @@ date: 2024-11-08T01:00:00Z
 image: /images/post/conge-pour-creation-dentreprise.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 La création d'une entreprise est souvent un parcours exaltant mais exigeant, qui nécessite du temps et des efforts considérables. Pour ceux qui souhaitent allier cette aventure entrepreneuriale à leur carrière salariée, la question du congé pour création d'entreprise se pose. Quels sont vos droits en la matière ? Quelles démarches devez-vous entreprendre ? Dans cet article, nous allons explorer ces questions et vous fournir toutes les informations nécessaires pour naviguer sereinement dans le processus de création d'entreprise tout en étant salarié.

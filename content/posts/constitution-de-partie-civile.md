@@ -6,7 +6,7 @@ date: 2024-11-12T01:00:00Z
 image: /images/post/constitution-de-partie-civile.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 La partie civile joue un rôle fondamental dans le système judiciaire français. Elle permet à une personne victime d'un délit ou d'un crime d'intervenir dans le procès pénal pour obtenir réparation de son préjudice. Dans cet article, nous allons explorer la notion de partie civile, sa définition, les démarches pour se constituer partie civile, ainsi que les droits et responsabilités qui en découlent. 

@@ -6,7 +6,7 @@ date: 2024-11-15T01:00:00Z
 image: /images/post/declaration-de-creance.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 La déclaration de créance est une procédure incontournable dans le cadre des processus de redressement ou de liquidation judiciaire. Elle permet à un créancier de revendiquer les sommes qui lui sont dues par une entreprise en difficulté. Cela peut sembler complexe, mais en comprenant bien les étapes et ce que cela implique, vous serez en mesure de naviguer efficacement dans ce processus. Dans cet article, nous allons explorer en profondeur les différentes facettes de la déclaration de créance, y compris ses différentes nuances et son importance dans le cadre des procédures collectives.

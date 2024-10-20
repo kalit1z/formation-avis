@@ -6,7 +6,7 @@ date: 2024-11-18T01:00:00Z
 image: /images/post/delai-de-paiement-des-creances.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le processus judiciaire ne s'arrête pas une fois qu'un jugement est prononcé par le tribunal. En effet, une fois que ce jugement devient exécutoire, il est essentiel de comprendre les délais de paiement qui s'appliquent. Que ce soit pour payer une condamnation, des frais de justice ou des dommages et intérêts, chaque aspect a ses propres règles. Cet article vous guidera à travers ces délais, afin que vous soyez informé et préparé.

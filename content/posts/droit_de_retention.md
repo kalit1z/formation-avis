@@ -6,7 +6,7 @@ date: 2024-11-28T01:00:00Z
 image: /images/post/droit_de_retention.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le droit de rétention est un concept fondamental en droit français, particulièrement dans le domaine des obligations et des contrats. Il permet à une personne de conserver un bien en raison d’une créance qu’elle détient sur l'autre partie. Cela peut sembler complexe, mais comprendre ses implications et ses applications est crucial tant pour les professionnels que pour les particuliers. Cet article examinera le droit de rétention sous différents angles, en s'appuyant sur des textes juridiques précis.

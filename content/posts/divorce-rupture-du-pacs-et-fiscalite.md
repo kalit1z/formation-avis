@@ -6,7 +6,7 @@ date: 2024-11-24T01:00:00Z
 image: /images/post/divorce-rupture-du-pacs-et-fiscalite.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le Pacte Civil de Solidarité (PACS) est une forme d'union qui offre divers avantages en matière fiscale. Toutefois, la rupture d'un PACS peut entraîner des complications quant à la déclaration des impôts. Cet article aborde les différentes facettes de la fiscalité liées au PACS, notamment lors de sa dissolution et de ses conséquences fiscales.

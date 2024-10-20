@@ -6,7 +6,7 @@ date: 2024-11-20T01:00:00Z
 image: /images/post/delit-de-banqueroute.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 Lorsqu'une entreprise se retrouve dans une situation financière difficile, elle peut être confrontée à la banqueroute. Ce phénomène, qui englobe divers aspects juridiques et économiques, mérite d'être étudié en profondeur. Cet article vise à apporter une lumière sur la banqueroute, ses implications, et les démarches à suivre pour l'éviter.

@@ -6,7 +6,7 @@ date: 2024-11-07T01:00:00Z
 image: /images/post/conge-parental-deducation.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le congé parental d'éducation est un dispositif important permettant aux parents de prendre soin de leur enfant tout en se retirant temporairement du monde du travail. En France, ce congé est encadré par la loi et offre aux familles une flexibilité nécessaire durant les premières années de vie du bébé. Mais quelles sont les modalités précises de ce congé ? Quels en sont les avantages et limites ?

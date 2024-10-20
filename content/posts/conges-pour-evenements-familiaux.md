@@ -6,7 +6,7 @@ date: 2024-11-12T01:00:00Z
 image: /images/post/conges-pour-evenements-familiaux.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le congé mariage est un moment tant attendu pour les salariés, leur permettant de célébrer une étape importante de leur vie. Ce congé s'inscrit dans une législation qui protège et encadre les droits des travailleurs en matière de congés pour événements familiaux. Dans cet article, nous explorerons en détail les différents aspects du congé mariage, ainsi que d'autres congés liés à des événements familiaux, afin de vous fournir une vue d'ensemble claire et complète.

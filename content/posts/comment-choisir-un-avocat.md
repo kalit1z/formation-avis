@@ -6,7 +6,7 @@ date: 2024-10-30T01:00:00Z
 image: /images/post/comment-choisir-un-avocat.webp
 categories: ["aide"]
 featured: true
-draft: false
+draft: true
 ---
 
 Choisir un avocat est une étape cruciale lorsqu'on doit faire face à des questions juridiques. Que ce soit pour une affaire pénale, une procédure de divorce, ou toute autre situation nécessitant une représentation légale, il est essentiel de sélectionner le bon professionnel. Cet article vous guide à travers le processus de choix d'un avocat, vous aide à trouver un avocat spécialisé, et vous fournit des outils pour prendre une décision éclairée.

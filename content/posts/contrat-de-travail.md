@@ -6,7 +6,7 @@ date: 2024-11-12T01:00:00Z
 image: /images/post/contrat-de-travail.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le monde du travail en France est régi par un ensemble de lois et de réglementations qui visent à protéger à la fois les employeurs et les employés. Parmi ces réglementations, le système de Letese de l'URSSAF est devenu essentiel. Cette notion fait référence à des templats spécifiques d'attestations qui permettent de vérifier le respect des obligations d'un employeur envers ses employés. Dans cet article, nous allons explorer en détail les aspects liés à l'obligation de fournir un numéro de sécurité sociale, la remise de copies de contrat de travail, ainsi que d'autres éléments liés au Letese URSSAF.

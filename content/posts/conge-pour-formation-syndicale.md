@@ -6,7 +6,7 @@ date: 2024-11-09T01:00:00Z
 image: /images/post/conge-pour-formation-syndicale.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les formations syndicales sont essentielles pour les représentants du personnel et les membres des syndicats. Elles permettent d'acquérir des compétences, de mieux comprendre les droits des travailleurs et de s’engager efficacement dans la défense de ces droits. Dans cet article, nous aborderons les modalités et les droits relatifs aux formations syndicales en France, en répondant à des questions communes autour de combien de jours de formation sont accordés, les congés qui y sont associés, et bien plus encore.

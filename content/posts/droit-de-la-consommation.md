@@ -6,7 +6,7 @@ date: 2024-11-30T01:00:00Z
 image: /images/post/droit-de-la-consommation.webp
 categories: ["citoyennete"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le droit de la consommation est un domaine complexe et en constante évolution, ce qui rend indispensable l'expertise d'un avocat spécialisé. Que ce soit pour des questions de litiges avec des commerçants, des problèmes de garanties, ou des achats en ligne, il est crucial de protéger ses droits en tant que consommateur. Cet article détaille l'importance d'un avocat en droit de la consommation, les compétences qu'il doit posséder et les situations dans lesquelles il peut vous aider.

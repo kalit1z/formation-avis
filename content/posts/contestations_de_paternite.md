@@ -6,7 +6,7 @@ date: 2024-11-12T01:00:00Z
 image: /images/post/contestations_de_paternite.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 La contestation de paternité est un sujet d'une grande importance dans le domaine du droit de la famille. Elle peut avoir des conséquences majeures, tant sur le plan personnel que juridique. Que vous soyez un père contesté ou que vous cherchiez à comprendre les implications d'une telle action, il est essentiel de connaître vos droits et les démarches à suivre.

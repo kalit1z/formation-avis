@@ -6,7 +6,7 @@ date: 2024-11-10T01:00:00Z
 image: /images/post/conge-sabbatique.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le congé sabbatique est une opportunité rare dans le monde professionnel, offrant aux salariés la possibilité de prendre du recul, de se reposer ou de se consacrer à d'autres projets. Que ce soit pour voyager, acquérir de nouvelles compétences ou simplement se ressourcer, le congé sabbatique suscite un grand intérêt. Cet article vous guidera à travers les différents aspects de ce type de congé, les conditions d'obtention, les droits des salariés et bien plus encore.

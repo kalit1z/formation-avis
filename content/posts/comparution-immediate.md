@@ -6,7 +6,7 @@ date: 2024-11-04T01:00:00Z
 image: /images/post/comparution-immediate.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 La comparution immédiate est une procédure judiciaire qui présente des enjeux essentiels dans le cadre du système pénal français. Dans un contexte où le temps peut avoir un impact significatif sur le déroulement d'une affaire, il est crucial de comprendre ce qu'implique cette procédure, les peines encourues, ainsi que les cas d'application. Cet article propose une exploration approfondie de la comparution immédiate, ses conséquences et ses spécificités.

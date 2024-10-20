@@ -6,7 +6,7 @@ date: 2024-11-14T01:00:00Z
 image: /images/post/declaration-dachevement-et-de-conformite.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 La déclaration de fin de travaux, souvent désignée par son acronyme DAACT, est une étape cruciale dans le processus de construction ou de rénovation en France. Ce document officiel atteste de l'achèvement d'un chantier et a des implications juridiques importantes, tant pour le maître d'ouvrage que pour l'administration. Dans cet article, nous allons examiner en détail le délai pour effectuer cette déclaration, la question de la conformité, ainsi que d'autres aspects connexes qui peuvent influencer cette procédure.

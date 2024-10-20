@@ -6,7 +6,7 @@ date: 2024-11-27T01:00:00Z
 image: /images/post/donations-partages.webp
 categories: ["aide"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les donations partages sont des outils juridiques puissants permettant aux individus de transférer des biens de leur vivant tout en organisant leur succession. Dans un cadre judiciaire français qui valorise l'égalité entre héritiers, la donation partage se distingue comme un moyen pragmatique et égalitaire de gérer les biens d'un donateur. Cet article vous guidera à travers les différentes dimensions des donations partages, leur relation avec la succession et les obligations légales qui en découlent.

@@ -6,7 +6,7 @@ date: 2024-11-01T01:00:00Z
 image: /images/post/comment-regler-un-differend-avec-mon-avocat.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 Lorsque vous faites appel à un avocat, vous vous attendez à un service professionnel de qualité. Cependant, il peut arriver que vos attentes ne soient pas satisfaites, ce qui peut entraîner un mécontentement. Dans ce cas, il est essentiel de savoir comment formuler une lettre de mécontentement à un avocat. Cet article propose un guide pratique sur la manière de procéder, que vous soyez en désaccord sur la qualité du service, sur des retards ou tout autre litige.

@@ -6,7 +6,7 @@ date: 2024-10-27T01:00:00Z
 image: /images/post/choix-du-nom-dun-enfant.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le nom de naissance est souvent la première identification d’un individu au sein de la société. C’est un élément essentiel de l’identité qui va au-delà de la simple désignation. Le choix du nom de naissance et du nom de famille peut avoir des répercussions sur la vie d’un enfant, tant sur le plan social que culturel. Dans cet article, nous aborderons les enjeux liés à la sélection d’un nom de naissance, les aspects légaux en France, et différentes caractéristiques associées.

@@ -6,7 +6,7 @@ date: 2024-11-21T01:00:00Z
 image: /images/post/differents-taux-de-tva.webp
 categories: ["entrepreneuriat"]
 featured: true
-draft: false
+draft: true
 ---
 
 La taxe sur la valeur ajoutée (TVA) est un impôt que tous les consommateurs rencontrent au quotidien, que ce soit lors de l'achat de biens ou de services. Avec des taux qui varient selon la nature des produits, il est crucial de bien comprendre comment cela fonctionne, surtout pour les produits de luxe. Dans cet article, nous allons explorer les différents taux de TVA applicables en France, en mettant l'accent sur le taux de luxe, les produits concernés et les implications que cela peut avoir pour les consommateurs.

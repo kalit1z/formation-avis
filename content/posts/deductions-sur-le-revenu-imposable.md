@@ -6,7 +6,7 @@ date: 2024-11-16T01:00:00Z
 image: /images/post/deductions-sur-le-revenu-imposable.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 Chaque année, les contribuables français sont confrontés à l'obligation de déclarer leurs revenus et de payer des impôts. Cependant, il existe une multitude de charges que l'on peut déduire de son revenu imposable, permettant ainsi de réduire le montant à payer. Cet article se propose de faire un tour d'horizon des charges déductibles des impôts en France, en mettant particulièrement l'accent sur des éléments comme les frais d'avocat et les pensions alimentaires. À travers ce guide, vous apprendrez non seulement quelles charges sont déductibles, mais aussi comment en tirer parti pour alléger votre imposition.

@@ -6,7 +6,7 @@ date: 2024-11-02T01:00:00Z
 image: /images/post/commission-rogatoire.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 La commission rogatoire est un outil clé dans le cadre des enquêtes judiciaires en France. Elle permet à un juge d'instruction de déléguer une partie de ses pouvoirs à un autre juge ou à une autorité judiciaire. Cet article se propose d'expliquer en détail ce concept, sa définition, son fonctionnement et comment il peut affecter les personnes concernées. Nous aborderons également les implications pratiques d'être sous commission rogatoire et les droits des personnes impliquées.

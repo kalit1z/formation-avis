@@ -6,7 +6,7 @@ date: 2024-11-15T01:00:00Z
 image: /images/post/declaration-dassociation.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 La déclaration des associations est une étape cruciale pour toute organisation à but non lucratif en France. Que vous soyez en train de créer une nouvelle association ou d’actualiser les informations de la vôtre, il est essentiel de comprendre le cadre juridique et les démarches administratives à suivre. Cet article expose de manière détaillée les différentes étapes de ce processus, les obligations légales ainsi que des conseils pratiques pour faciliter les démarches. 

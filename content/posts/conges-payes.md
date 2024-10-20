@@ -6,7 +6,7 @@ date: 2024-11-11T01:00:00Z
 image: /images/post/conges-payes.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les congés payés sont un aspect essentiel des droits du travail en France, et cela s’applique également aux étrangers travaillant dans le pays. La législation française garantit à tous les employés, qu'ils soient nationaux ou étrangers, le droit à des congés annuels payés. Dans cet article, nous allons explorer les détails importants concernant les 5 semaines de congés payés pour les étrangers, en abordant divers aspects tels que les droits, le calcul, ainsi que les implications légales.

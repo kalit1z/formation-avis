@@ -6,7 +6,7 @@ date: 2024-10-30T01:00:00Z
 image: /images/post/comment-engager-un-proces.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le procès est un processus juridique qui permet de résoudre des conflits entre différentes parties, que ce soit des individus, des entreprises ou des institutions. Que ce soit au civil ou au pénal, intenter un procès implique de suivre des règles précises et de respecter des délais légaux. Cet article vous fournira un aperçu complet des différentes étapes d’un procès, en mettant l'accent sur les différences entre la plainte au civil et au pénal, la manière de déposer plainte, et les spécificités des procédures judiciaires en France.

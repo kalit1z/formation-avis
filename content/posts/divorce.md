@@ -6,7 +6,7 @@ date: 2024-11-24T01:00:00Z
 image: /images/post/divorce.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le divorce sur requête conjointe, également appelé divorce par consentement mutuel, est une procédure simplifiée et moins conflictuelle que les autres types de divorce. Dans ce processus, les deux époux s’accordent sur la rupture du mariage et les modalités qui l’accompagnent. Ce guide vous propose un aperçu complet de cette démarche, en passant par ses avantages, ses obligations légales et bien plus encore.

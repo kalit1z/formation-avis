@@ -6,7 +6,7 @@ date: 2024-11-22T01:00:00Z
 image: /images/post/divorce-la-fiscalite-sallege.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le divorce est une étape douloureuse qui implique souvent des considérations légales complexes. L'une des questions majeures à traiter après une rupture est celle du droit de partage des biens. Quels sont les impacts fiscaux du divorce ? Quelles taxes sont liées à cette séparation ? Cet article vous offre une vue d'ensemble des enjeux associés au droit de partage dans le cadre d'un divorce, y compris les implications fiscales essentielles à considérer.

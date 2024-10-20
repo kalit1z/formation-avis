@@ -6,7 +6,7 @@ date: 2024-11-05T01:00:00Z
 image: /images/post/comprendre_garantie_actif_passif.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 La garantie actif-passif, souvent abrégée en GAP, est un concept fondamental dans le monde des affaires et des investissements. Elle joue un rôle crucial dans la protection des investisseurs lors de transactions financières importantes, en particulier lors de fusions et acquisitions. Dans cet article, nous explorerons en profondeur ce qu'est la GAP, son importance, les différents types de garanties, et bien plus encore. Cet article est conçu pour vous fournir des connaissances approfondies afin que vous puissiez prendre des décisions éclairées dans vos investissements.

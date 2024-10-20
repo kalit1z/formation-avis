@@ -6,7 +6,7 @@ date: 2024-11-15T01:00:00Z
 image: /images/post/declaration-de-succession.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 La déclaration de succession est une étape incontournable après le décès d'un proche. Elle permet de déterminer les droits de chaque héritier et de s'acquitter des impôts liés à la transmission de patrimoine. Bien qu'elle puisse paraître complexe, il existe des démarches claires pour réaliser cette déclaration. Cet article détaillé vous guidera à travers tous les aspects de la déclaration de succession, des procédures à suivre aux conséquences de son omission.

@@ -6,7 +6,7 @@ date: 2024-11-23T01:00:00Z
 image: /images/post/divorce-par-consentement-mutuel-comment-agir.webp
 categories: ["familiale"]
 featured: true
-draft: false
+draft: true
 ---
 
 Divorcer est une étape difficile dans la vie de nombreux couples, mais le divorce par consentement mutuel offre une voie plus harmonieuse et moins conflictuelle. Ce type de divorce permet aux époux de se séparer d’un commun accord, facilitant ainsi la gestion des aspects juridiques et pratiques du divorce. Dans cet article, nous allons explorer en détail le processus de divorce par consentement mutuel, son cadre légal, les avantages qu'il présente, ainsi que le rôle des avocats dans cette procédure.

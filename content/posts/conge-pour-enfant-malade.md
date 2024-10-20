@@ -6,7 +6,7 @@ date: 2024-11-08T01:00:00Z
 image: /images/post/conge-pour-enfant-malade.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le congé malade est un droit capital pour les travailleurs en France. Il permet de préserver la santé des employés tout en assurant une protection financière. Cet article explore en profondeur les divers aspects liés au congé maladie, notamment les droits des salariés, les procédures à suivre pour en bénéficier et des conseils pratiques pour gérer cette période délicate.

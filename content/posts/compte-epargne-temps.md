@@ -6,7 +6,7 @@ date: 2024-11-05T01:00:00Z
 image: /images/post/compte-epargne-temps.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 La gestion des congés et des temps de travail est essentielle pour garantir un meilleur équilibre entre la vie personnelle et professionnelle. Le Compte Épargne Temps (CET) est un outil très utile qui permet aux salariés de capitaliser des jours de congés et d'autres droits à repos pour une utilisation ultérieure. Dans cet article, nous allons explorer en détail le déblocage du CET, les procédures à suivre, ainsi que les droits des salariés liés à cette forme de capitalisation.

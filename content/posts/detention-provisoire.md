@@ -6,7 +6,7 @@ date: 2024-11-22T01:00:00Z
 image: /images/post/detention-provisoire.webp
 categories: ["judiciaire"]
 featured: true
-draft: false
+draft: true
 ---
 
 La détention provisoire est une mesure privative de liberté qui suscite de nombreuses interrogations tant sur le plan juridique que social. Elle est principalement utilisée dans le cadre d'enquêtes pénales lorsque la justice estime qu'il y a un risque de fuite, de destruction de preuves ou de récidive. Cet article se penchera sur les différentes facettes de la détention provisoire en France, ses conditions, sa durée, ainsi que les recours possibles pour les personnes concernées.

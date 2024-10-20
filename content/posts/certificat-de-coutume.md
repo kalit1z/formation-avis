@@ -6,7 +6,7 @@ date: 2024-10-23T01:00:00Z
 image: /images/post/certificat-de-coutume.webp
 categories: ["familiale"]
 featured: false
-draft: false
+draft: true
 ---
 
 Le certificat de coutume est un document juridique qui revêt une grande importance pour les couples souhaitant célébrer leur mariage ou leur PACS à l'étranger. Ce guide a pour objectif de vous fournir toutes les informations nécessaires concernant le certificat de coutume, ses implications pour le mariage et le PACS, ainsi que les démarches à suivre pour en obtenir un. 

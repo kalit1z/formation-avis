@@ -6,7 +6,7 @@ date: 2024-11-19T01:00:00Z
 image: /images/post/delai-de-retractation-comment-cela-fonctionne-t-il.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 La rétractation est un droit essentiel pour le consommateur, permettant d'annuler un achat après la transaction. Ce droit est particulièrement pertinent dans le contexte actuel, où les achats en ligne et en magasin se multiplient. Comprendre le délai de rétractation associé à un achat est crucial pour éviter des désagréments et profiter pleinement de ses droits. Cet article propose un tour d’horizon complet sur le sujet, notamment les délais de rétractation en magasin et en ligne, ainsi que les droits en matière de rétractation selon la législation française.

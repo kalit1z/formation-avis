@@ -6,7 +6,7 @@ date: 2024-11-07T01:00:00Z
 image: /images/post/conge-de-presence-parentale.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les congés de présence parentale représentent un droit important pour les salariés en France, leur permettant de concilier vie professionnelle et obligations familiales. Dans cet article, nous allons explorer les différentes facettes de ce congé, notamment les conditions d'obtention, la procédure à suivre, et les documents nécessaires, afin de vous fournir toutes les informations indispensables.

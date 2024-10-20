@@ -6,7 +6,7 @@ date: 2024-11-17T01:00:00Z
 image: /images/post/deficits.webp
 categories: ["finance"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les déficits sont au cœur de nombreuses discussions économiques et financières, tant au niveau national qu'individuel. Qu'il s'agisse de déficits budgétaires, de la Sécurité sociale ou de l'impôt sur le revenu, comprendre les différents types de déficits peut vous aider à mieux naviguer dans le paysage économique. Cet article vous fournira une vue d'ensemble des déficits, de leurs causes, de leurs impacts et des solutions possibles pour les gérer. 

@@ -6,7 +6,7 @@ date: 2024-10-29T01:00:00Z
 image: /images/post/comment-porter-plainte.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 Porter plainte est une étape cruciale lorsque l'on se sent victime d'une infraction ou d'un délit. Que ce soit pour une agression, un vol ou d'autres actes répréhensibles, il est important de savoir comment procéder. Cet article vise à fournir un guide pratique sur la façon de déposer une plainte, les différentes procédures, et des réponses aux questions courantes à ce sujet.

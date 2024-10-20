@@ -6,7 +6,7 @@ date: 2024-11-14T01:00:00Z
 image: /images/post/contrat-de-travail-duree-determinee.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le contrat de travail déterminé, souvent abrégé en CDD, est une forme d'emploi contractuelle très utilisée en France. Il permet aux employeurs d'embaucher des salariés pour une période précise, répondant ainsi à des besoins temporaires sans engager les obligations d'un contrat à durée indéterminée (CDI). Cet article explorera en profondeur les caractéristiques, les types, la durée et les aspects légaux du contrat de travail déterminé.

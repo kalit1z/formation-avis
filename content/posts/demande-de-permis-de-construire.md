@@ -6,7 +6,7 @@ date: 2024-11-21T01:00:00Z
 image: /images/post/demande-de-permis-de-construire.webp
 categories: ["administratif"]
 featured: true
-draft: false
+draft: true
 ---
 
 Les projets de construction nécessitent souvent d'obtenir un permis de construire pour garantir la conformité avec les règlements d'urbanisme. Que vous souhaitiez construire une maison, une extension ou un autre bâtiment, il est essentiel de comprendre le processus de demande de permis de construction. Cet article vous guidera à travers chaque étape, en détaillant les exigences, les documents nécessaires et les délais d'attente. 

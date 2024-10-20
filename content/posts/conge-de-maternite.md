@@ -6,7 +6,7 @@ date: 2024-11-07T01:00:00Z
 image: /images/post/conge-de-maternite.webp
 categories: ["travailleurs"]
 featured: true
-draft: false
+draft: true
 ---
 
 Le congé maternité est une période essentielle pour les futures mères, leur offrant un temps nécessaire pour se préparer à l'accueil de leur bébé. En France, la durée du congé maternité est encadrée par la loi, et il est crucial de bien comprendre ses droits et de connaître les détails qui l'entourent. Cet article couvre les différentes facettes du congé maternité, incluant la durée, les dates, et des spécificités comme les congés pour jumeaux.
