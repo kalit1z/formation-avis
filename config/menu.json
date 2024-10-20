@@ -1,40 +1,60 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Acceuil",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "À Propos",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Notre guide",
+      "url": "https://www.fastercook.fr/avocat"
     },
     {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Pages",
-      "url": "",
+      "name": "Conseils",
+      "url": "/categories",
       "hasChildren": true,
       "children": [
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Administratif",
+          "url": "/categories/administratif"
+        },
+        {
+          "name": "Aides",
+          "url": "/categories/aide"
+        },
+        {
+          "name": "Entrepreneuriat",
+          "url": "/categories/entrepreneuriat"
+        },
+        {
+          "name": "Familiale",
+          "url": "/categories/familiale"
+        },
+        {
+          "name": "Finance",
+          "url": "/categories/finance"
+        },
+        {
+          "name": "Judiciaire",
+          "url": "/categories/judiciaire"
+        },
+        {
+          "name": "Travailleurs",
+          "url": "/categories/travailleurs"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "name": "About",
+      "name": "À Propos",
       "url": "/about"
     },
     {
@@ -42,8 +62,8 @@
       "url": "/contact"
     },
     {
-      "name": "Privacy Policy",
-      "url": "#"
+      "name": "Légal",
+      "url": "/mentions-legal"
     }
   ]
 }

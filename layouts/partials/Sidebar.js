@@ -88,7 +88,7 @@ const Sidebar = ({ posts, categories, className }) => {
       {/* featured widget */}
       {featured_posts.enable && (
         <div className="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
-          <h4 className="section-title mb-12 text-center">Featured</h4>
+          <h4 className="section-title mb-12 text-center">En vedette</h4>
           <div className="mb-12 flex items-center justify-center">
             <button
               className={`btn px-5 py-2 ${
@@ -96,7 +96,7 @@ const Sidebar = ({ posts, categories, className }) => {
               }`}
               onClick={() => setShowRecent(false)}
             >
-              Featured
+              À la une
             </button>
             <button
               className={`btn ml-3  px-5 py-2 ${
@@ -187,7 +187,6 @@ const Sidebar = ({ posts, categories, className }) => {
           <h4 className="section-title">{newsletter.title}</h4>
           <p className="mt-10 text-xs">{newsletter.content}</p>
           <MailchimpSubscribe
-            url={newsletter.malichip_url}
             render={({ subscribe, status, message }) => (
               <CustomForm
                 onValidated={(formData) => subscribe(formData)}
@@ -196,15 +195,6 @@ const Sidebar = ({ posts, categories, className }) => {
               />
             )}
           />
-          <p className="text-xs">
-            By Singing Up, You Agree To
-            <Link
-              href={newsletter.privacy_policy_page}
-              className="ml-1 text-primary"
-            >
-              Privacy Policy
-            </Link>
-          </p>
         </div>
       )}
     </aside>

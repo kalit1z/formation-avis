@@ -133,9 +133,9 @@ const Home = ({
 
               {/* Promotion */}
               {promotion.enable && (
-                <Link href={promotion.link} className="section block pt-0">
+                <Link href={promotion.link} className="section block pt-0 ">
                   <ImageFallback
-                    className="h-full w-full"
+                    className="h-full w-full rounded-[15px]"
                     height="115"
                     width="800"
                     src={promotion.image}

@@ -1,4 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
-Disallow: /api/*
+# Host
+Host: https://www.mon-annuaire-avocat.fr
+
+# Sitemaps
+Sitemap: https://www.mon-annuaire-avocat.fr/sitemap.xml

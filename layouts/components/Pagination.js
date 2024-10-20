@@ -8,8 +8,25 @@ const Pagination = ({ section, currentPage, totalPages }) => {
   const hasNextPage = totalPages > currentPage;
 
   let pageList = [];
-  for (let i = 1; i <= totalPages; i++) {
-    pageList.push(i);
+
+  // Limiter à 3 pages avec ellipses
+  if (totalPages <= 3) {
+    pageList = Array.from({ length: totalPages }, (_, i) => i + 1);
+  } else {
+    if (currentPage === 1) {
+      pageList = [1, 2, 3, '...'];
+    } else if (currentPage === totalPages) {
+      pageList = ['...', totalPages - 2, totalPages - 1, totalPages];
+    } else {
+      pageList = ['...', currentPage - 1, currentPage, currentPage + 1, '...'];
+      // Enlever les ellipses si on est à la première ou à la dernière page
+      if (currentPage === 2) {
+        pageList = [1, 2, 3, '...'];
+      }
+      if (currentPage === totalPages - 1) {
+        pageList = ['...', totalPages - 2, totalPages - 1, totalPages];
+      }
+    }
   }
 
   return (
@@ -24,21 +41,21 @@ const Pagination = ({ section, currentPage, totalPages }) => {
             <Link
               href={
                 indexPageLink
-                  ? `${section ? "/" + section : "/"}`
+                  ? `${section ? "/" + section : "/"}` 
                   : `${section ? "/" + section : ""}/page/${currentPage - 1}`
               }
               className="flex items-center rounded-full px-2 py-1 text-3xl font-bold leading-none text-dark dark:text-darkmode-light"
             >
               <>
                 <BsArrowLeftShort />
-                <span className="ml-3 text-lg ">Previous</span>
+                <span className="ml-3 text-lg"></span>
               </>
             </Link>
           ) : (
-            <span className="flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light ">
+            <span className="flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light">
               <>
                 <BsArrowLeftShort />
-                <span className="ml-3 text-lg">Previous</span>
+                <span className="ml-3 text-lg"></span>
               </>
             </span>
           )}
@@ -53,11 +70,15 @@ const Pagination = ({ section, currentPage, totalPages }) => {
                 >
                   {pagination}
                 </span>
+              ) : pagination === '...' ? (
+                <span className="inline-flex h-[38px] w-[38px] items-center justify-center rounded-full px-4 py-1 font-secondary text-lg font-bold leading-none text-dark dark:text-darkmode-light">
+                  {pagination}
+                </span>
               ) : (
                 <Link
                   href={
-                    i === 0
-                      ? `${section ? "/" + section : "/"}`
+                    pagination === 1
+                      ? `${section ? "/" + section : "/"}` 
                       : `${section ? "/" + section : ""}/page/${pagination}`
                   }
                   passHref
@@ -77,14 +98,14 @@ const Pagination = ({ section, currentPage, totalPages }) => {
               className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold leading-none text-dark dark:text-darkmode-light"
             >
               <>
-                <span className="mr-3 text-lg">Next</span>
+                <span className="mr-3 text-lg">Suivant</span>
                 <BsArrowRightShort />
               </>
             </Link>
           ) : (
             <span className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light">
               <>
-                <span className="mr-3 text-lg">Next</span>
+                <span className="mr-3 text-lg">Suivant</span>
                 <BsArrowRightShort />
               </>
             </span>

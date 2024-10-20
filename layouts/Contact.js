@@ -23,86 +23,80 @@ const Contact = ({ data }) => {
             {markdownify(
               title,
               "h1",
-              "h1 my-10 lg:my-11 lg:pt-11 text-center lg:text-left lg:text-[64px]"
+              "h1 my-10 lg:my-11 lg:pt-11 text-center lg:text-left lg:text-[34px]"
             )}
           </div>
           <div className="contact-form-wrapper rounded border border-border p-6 dark:border-darkmode-border lg:col-6">
             <h2>
-              Send Us A
+                Recevez votre     
               <span className="ml-1.5 inline-flex items-center text-primary">
-                Message
+                Devis
                 <BsArrowRightShort />
               </span>
             </h2>
-            <form
-              className="contact-form mt-12"
-              method="POST"
-              action={form_action}
-            >
-              <div className="mb-6">
-                <label className="mb-2 block font-secondary" htmlFor="name">
-                  Full name
-                  <small className="font-secondary text-sm text-primary">
-                    *
-                  </small>
-                </label>
-                <input
-                  className="form-input w-full"
-                  name="name"
-                  type="text"
-                  placeholder="Thomas Milano"
-                  required
-                />
-              </div>
-              <div className="mb-6">
-                <label className="mb-2 block font-secondary" htmlFor="email">
-                  Email Address
-                  <small className="font-secondary text-sm text-primary">
-                    *
-                  </small>
-                </label>
-                <input
-                  className="form-input w-full"
-                  name="email"
-                  type="email"
-                  placeholder="example@gmail.com"
-                  required
-                />
-              </div>
-              <div className="mb-6">
-                <label className="mb-2 block font-secondary" htmlFor="subject">
-                  Subject
-                  <small className="font-secondary text-sm text-primary">
-                    *
-                  </small>
-                </label>
-                <input
-                  className="form-input w-full"
-                  name="subject"
-                  type="text"
-                  placeholder="Blog advertisement"
-                  required
-                />
-              </div>
-              <div className="mb-6">
-                <label className="mb-2 block font-secondary" htmlFor="message">
-                  Your Message Here
-                  <small className="font-secondary text-sm text-primary">
-                    *
-                  </small>
-                </label>
-                <textarea
-                  className="form-textarea w-full"
-                  placeholder="Hello I’m Mr ‘x’ from………….."
-                  rows="7"
-                />
-              </div>
-              <input
-                className="btn btn-primary"
-                type="submit"
-                value="Send Now"
-              />
-            </form>
+            <form className="contact-form mt-12" method="POST" action={form_action}>
+      <div className="mb-6">
+        <label className="mb-2 block font-secondary" htmlFor="name">
+          Nom complet
+          <small className="font-secondary text-sm text-primary">*</small>
+        </label>
+        <input
+          className="form-input w-full"
+          name="name"
+          type="text"
+          placeholder="Thomas Milano"
+          required
+        />
+      </div>
+      
+      <div className="mb-6">
+        <label className="mb-2 block font-secondary" htmlFor="email">
+          Adresse e-mail
+          <small className="font-secondary text-sm text-primary">*</small>
+        </label>
+        <input
+          className="form-input w-full"
+          name="email"
+          type="email"
+          placeholder="example@gmail.com"
+          required
+        />
+      </div>
+      
+      <div className="mb-6">
+        <label className="mb-2 block font-secondary" htmlFor="lawyerType">
+          Type d'avocat recherché
+          <small className="font-secondary text-sm text-primary">*</small>
+        </label>
+        <input
+          className="form-input w-full"
+          name="lawyerType"
+          type="text"
+          placeholder="Droit de la famille, Droit pénal, etc."
+          required
+        />
+      </div>
+      
+      <div className="mb-6">
+        <label className="mb-2 block font-secondary" htmlFor="description">
+          Description du problème
+          <small className="font-secondary text-sm text-primary">*</small>
+        </label>
+        <textarea
+          className="form-textarea w-full"
+          name="description"
+          placeholder="Veuillez décrire votre situation..."
+          rows="7"
+          required
+        />
+      </div>
+      
+      <input
+        className="btn btn-primary"
+        type="submit"
+        value="Envoyer"
+      />
+    </form>
           </div>
         </div>
         <div className="row">

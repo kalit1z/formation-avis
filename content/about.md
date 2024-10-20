@@ -1,36 +1,71 @@
 ---
-title: About The Author
+title: Notre service d'annuaire d'avocats
 image: /images/author.png
-description: "meta description"
+description: "Trouvez l'avocat idéal pour vos besoins juridiques grâce à notre service de mise en relation personnalisé"
 layout: about
 education:
-  title: Formal Education
+  title: Nos guides juridiques
   degrees:
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Northeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Easteast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    - university: "Southeast University"
-      content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"  
+    - university: "Guide du droit des affaires"
+      content: "Comprendre les bases • Créer son entreprise • Protéger ses actifs"
+    - university: "Guide du droit de la famille"
+      content: "Mariage et PACS • Divorce • Succession"
+    - university: "Guide du droit du travail"
+      content: "Contrats • Licenciement • Négociations collectives"
+    - university: "Guide du droit immobilier"
+      content: "Achat • Location • Copropriété"  
 
 experience:
-  title: Work Experience
+  title: Nos domaines d'expertise
   list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
+    - Droit des affaires
+    - Droit de la famille
+    - Droit du travail
+    - Droit immobilier
+    - Droit pénal
+    - Droit de la propriété intellectuelle
+    - Droit fiscal
+    - Droit de l'environnement
+    - Droit international
+    - Médiation et arbitrage
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+<h2>Votre portail vers l'expertise juridique sur mesure</h2>
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+Notre service d'annuaire d'avocats est conçu pour simplifier votre recherche du professionnel juridique idéal. Nous mettons en relation les particuliers et les entreprises avec des avocats qualifiés, adaptés à leurs besoins spécifiques.
+
+<h3>Notre proposition de valeur</h3>
+
+1. <strong>Mise en relation personnalisée</strong> : Notre algorithme avancé analyse vos besoins pour vous proposer les avocats les plus pertinents.
+
+2. <strong>Diversité d'expertise</strong> : Accédez à un vaste réseau d'avocats spécialisés dans différents domaines du droit.
+
+3. <strong>Transparence</strong> : Consultez les profils détaillés, les avis clients et les tarifs pour faire un choix éclairé.
+
+4. <strong>Gain de temps</strong> : Évitez les recherches interminables et trouvez rapidement le bon avocat pour votre situation.
+
+<h2>Ressources pour vous guider</h2>
+
+En plus de notre service de mise en relation, nous offrons des ressources précieuses pour vous aider à naviguer dans le monde juridique :
+
+<h3>Guides pratiques</h3>
+
+Nos guides couvrent les principaux domaines du droit, vous permettant de mieux comprendre vos droits et options avant de consulter un avocat.
+
+<h3>Articles juridiques</h3>
+
+Restez informé des dernières évolutions juridiques grâce à nos articles rédigés par des experts du droit.
+
+<h2>Un accompagnement à chaque étape</h2>
+
+Que vous ayez besoin de conseils pour créer votre entreprise, gérer un divorce ou résoudre un litige commercial, notre plateforme vous accompagne à chaque étape de votre parcours juridique.
+
+<h3>Comment ça marche ?</h3>
+
+1. Décrivez votre besoin juridique via notre formulaire en ligne.
+2. Recevez une sélection d'avocats correspondant à vos critères.
+3. Comparez les profils et choisissez l'avocat qui vous convient.
+4. Prenez rendez-vous directement via notre plateforme.
+
+Faites confiance à notre service pour trouver l'avocat qui saura répondre à vos besoins spécifiques, en toute simplicité et en toute confiance.

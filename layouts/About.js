@@ -22,7 +22,7 @@ const About = ({ data }) => {
             />
           </div>
         )}
-        {markdownify(title, "h1", "h1 text-left lg:text-[55px] mt-12")}
+        {markdownify(title, "h1", "h1 text-left lg:text-[45px] mt-12")}
 
         <div className="content text-left">
           <MDXRemote {...mdxContent} components={shortcodes} />

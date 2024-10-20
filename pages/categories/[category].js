@@ -1,24 +1,30 @@
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
 import Sidebar from "@layouts/partials/Sidebar";
+import Post from "@partials/Post";
+import ReactMarkdown from 'react-markdown'; // Import de react-markdown
 import { getSinglePage } from "@lib/contentParser";
 import { getTaxonomy } from "@lib/taxonomyParser";
 import { slugify } from "@lib/utils/textConverter";
-import Post from "@partials/Post";
-const { blog_folder } = config.settings;
 
 // category page
-const Category = ({ postsByCategories, category, posts, categories }) => {
+const Category = ({ postsByCategories, category, posts, categories, frontmatter, content }) => {
+  const { title, metaTitle, description } = frontmatter;
+
   return (
-    <Base title={category}>
-      <div className="section mt-16">
+    <Base title={metaTitle} description={description}>
+      <div className="section">
         <div className="container">
-          <h1 className="h2 mb-12">
-            Showing posts from
-            <span className="section-title ml-1 inline-block capitalize">
-              {category.replace("-", " ")}
-            </span>
-          </h1>
+          <h1 className="h2 mb-12">{title}</h1>
+          {/* Rendre le contenu Markdown avec la classe `content` */}
+          <div className="content">
+            <ReactMarkdown>
+              {content}
+            </ReactMarkdown>
+          </div>
           <div className="row">
             <div className="lg:col-8">
               <div className="row rounded border border-border p-4 px-3 dark:border-darkmode-border lg:p-6">
@@ -39,14 +45,11 @@ const Category = ({ postsByCategories, category, posts, categories }) => {
 
 export default Category;
 
-// category page routes
+// category page paths
 export const getStaticPaths = () => {
-  const allCategories = getTaxonomy(`content/${blog_folder}`, "categories");
-
-  const paths = allCategories.map((category) => ({
-    params: {
-      category: category,
-    },
+  const categories = getTaxonomy(`content/${config.settings.blog_folder}`, 'categories');
+  const paths = categories.map((category) => ({
+    params: { category: slugify(category) }
   }));
 
   return { paths, fallback: false };
@@ -54,13 +57,25 @@ export const getStaticPaths = () => {
 
 // category page data
 export const getStaticProps = ({ params }) => {
-  const posts = getSinglePage(`content/${blog_folder}`);
+  const filePath = path.join('content', 'categories', `${params.category}.md`);
+
+  if (!fs.existsSync(filePath)) {
+    return {
+      notFound: true,
+    };
+  }
+
+  const fileContent = fs.readFileSync(filePath, 'utf-8');
+  const { data: frontmatter, content } = matter(fileContent); // Récupérer aussi le contenu
+
+  const posts = getSinglePage(`content/${config.settings.blog_folder}`);
   const filterPosts = posts.filter((post) =>
     post.frontmatter.categories.find((category) =>
       slugify(category).includes(params.category)
     )
   );
-  const categories = getTaxonomy(`content/${blog_folder}`, "categories");
+
+  const categories = getTaxonomy(`content/${config.settings.blog_folder}`, "categories");
 
   const categoriesWithPostsCount = categories.map((category) => {
     const filteredPosts = posts.filter((post) =>
@@ -78,6 +93,8 @@ export const getStaticProps = ({ params }) => {
       postsByCategories: filterPosts,
       category: params.category,
       categories: categoriesWithPostsCount,
+      frontmatter,
+      content, // Passer le contenu au composant
     },
   };
 };

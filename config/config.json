@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
-    "base_url": "/",
+    "title": "Trouvez un Avocat Qualifié – Comparez les Experts Juridiques en France",
+    "base_url": "https://mon-annuaire-avocat.fr/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
-    "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_width": "200",
+    "logo_height": "57",
+    "logo_text": "Comparez les Experts Juridiques en France"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,18 +22,18 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "Mon Annuaire Avocat vous permet de comparer plusieurs avocats spécialisés en fonction de votre situation. Recevez des devis personnalisés et trouvez l’assistance juridique qu’il vous faut.",
+    "copyright": "© 2024 Mon Annuaire Avocat. Tous droits réservés."
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Notre équipe",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "Mon Annuaire Avocat vous permet de trouver rapidement un avocat compétent près de chez vous. Comparez les offres et choisissez la meilleure option."
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "Besoin d’un avocat ? <br/> Comparez des devis et trouvez l’expert qu’il vous faut."
     },
     "featured_posts": {
       "enable": true,
@@ -46,15 +46,14 @@
     },
     "newsletter": {
       "enable": true,
-      "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
-      "privacy_policy_page": "#",
-      "malichipm_url": ""
+      "title": "Préparez la Consultation",
+      "content": "Optimisez votre temps ! Recevez notre guide vous enseigne comment choisir le bon avocat et vous préparer efficacement avant la consultation.",
+      "privacy_policy_page": "/mentions-legal"
     }
   },
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "template",
     "settings": {}
   }
 }

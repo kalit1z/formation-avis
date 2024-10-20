@@ -1,27 +1,27 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title: "Mon Annuaire Avocat"
+  title_small: "trouvez l’expert qu’il vous faut."
+  content: "Nous connectons les personnes à la recherche d'un avocat avec des professionnels qualifiés. Décrivez votre situation et recevez des devis personnalisés pour vous aider à choisir le meilleur avocat pour votre besoin."
   image_enable: true
   image: /images/banner-author.png
   button:
-    enable: true
+    enable: false
     label: Know About Me
     link: /about
     rel: ""
 
 featured_posts:
   enable: true
-  title: Featured Posts
+  title: En vedette
 
 promotion:
   enable: true
   image: /images/promotion.png
-  link: "#"
+  link: "https://www.fastercook.fr/avocat"
 
 recent_posts:
-  title: Recent Posts
+  title: Posts récent
   enable: true
 
 ---
