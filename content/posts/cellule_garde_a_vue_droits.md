@@ -6,7 +6,7 @@ date: 2024-10-22T01:00:00Z
 image: /images/post/cellule_garde_a_vue_droits.webp
 categories: ["judiciaire"]
 featured: false
-draft: true
+draft: false
 ---
 
 La cellule de garde à vue est souvent un lieu de mécompréhension et de doute pour ceux qui s'y trouvent. Ce dispositif législatif a été mis en place pour faciliter les enquêtes criminelles tout en respectant les droits fondamentaux des individus. En France, la garde à vue est un moment crucial pour la justice pénale, et comprendre son fonctionnement est essentiel pour ceux qui peuvent y être confrontés, ainsi que pour leurs proches. Cet article va détailler le sujet en profondeur, y compris les droits des gardés à vue, le processus de garde à vue, et plus encore.
