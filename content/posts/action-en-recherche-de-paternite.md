@@ -5,7 +5,7 @@ metaDescription: "Découvrez tout sur le test de paternité sans procédure judi
 date: 2024-10-19T01:00:00Z
 image: /images/post/action-en-recherche-de-paternite.webp
 categories: ["familiale"]
-featured: true
+featured: false
 draft: false
 ---
 
