@@ -6,7 +6,7 @@ date: 2024-10-24T01:00:00Z
 image: /images/post/certificat-de-vie-ou-certificat-dexistence.webp
 categories: ["administratif"]
 featured: false
-draft: true
+draft: false
 ---
 
 Le certificat de vie, également connu sous le nom de certificat d'existence, est un document crucial pour plusieurs démarches administratives, notamment pour les personnes vivant à l'étranger. À Tours, le traitement de ces certificats est organisé et accessible. Cet article est conçu pour vous fournir un guide complet sur le centre de traitement des certificats de vie à Tours.

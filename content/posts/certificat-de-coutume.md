@@ -1,8 +1,8 @@
 ---
-title: "Tout savoir sur le certificat de coutume : Guide complet 2023"
+title: "Tout savoir sur le certificat de coutume : Guide complet 2025"
 metaTitle: "Certificat de coutume : Tout ce qu'il faut savoir"
 metaDescription: "Découvrez tout sur le certificat de coutume : définition, mariage, PACS, et demandes en ligne."
-date: 2024-10-23T01:00:00Z
+date: 2024-10-23T00:00:00Z
 image: /images/post/certificat-de-coutume.webp
 categories: ["familiale"]
 featured: true
