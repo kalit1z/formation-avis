@@ -6,7 +6,7 @@ date: 2024-10-25T01:00:00Z
 image: /images/post/certificat-durbanisme.webp
 categories: ["entrepreneuriat"]
 featured: false
-draft: true
+draft: false
 ---
 
 Les certificats d'urbanisme représentent un élément crucial dans le cadre de tout projet de construction ou d'aménagement. Ils permettent d'obtenir des informations essentielles sur la faisabilité d'un projet immobilier selon la législation en vigueur. Cet article se propose de vous éclairer sur ce sujet en détaillant ce qu'est un certificat d'urbanisme, ses types, ses enjeux et le processus à suivre pour l'obtenir.
