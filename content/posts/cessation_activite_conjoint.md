@@ -6,7 +6,7 @@ date: 2024-10-26T01:00:00Z
 image: /images/post/cessation_activite_conjoint.webp
 categories: ["familiale"]
 featured: true
-draft: true
+draft: false
 ---
 
 La cessation d'activité pour un conjoint collaborateur est une étape cruciale qui mérite une attention particulière. Que ce soit pour des raisons personnelles, professionnelles ou économiques, ce processus doit être géré avec soin afin de respecter les obligations légales et de préserver les droits de toutes les parties impliquées. Dans cet article, nous allons explorer les différentes facettes de la cessation d'activité pour un conjoint collaborateur, des démarches administratives aux conséquences fiscales, en passant par les droits et les devoirs. 
