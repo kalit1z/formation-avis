@@ -1,5 +1,5 @@
 ---
-title: "Allocation Forfaitaire de Repos Maternel : Guide Complet 2023"
+title: "Allocation Forfaitaire de Repos Maternel : Guide Complet 2025"
 metaTitle: "Allocation Forfaitaire de Repos Maternel – Tout Savoir"
 metaDescription: "Découvrez l'allocation forfaitaire de repos maternel : droits, démarches et aides disponibles pour les mamans."
 date: 2024-10-19T01:00:00Z
@@ -50,9 +50,9 @@ Les conditions pour bénéficier de l'allocation forfaitaire de repos maternel s
 
 ### Montant de l'Allocation
 
-Le montant de l'allocation forfaitaire de repos maternel est fixe et est révisé chaque année. En 2023, le montant est de **1 500 euros**, versé en une seule fois. Ce montant est destiné à aider la mère à couvrir les frais liés à l'accouchement et à la prise en charge de l'enfant.
+Le montant de l'allocation forfaitaire de repos maternel est fixe et est révisé chaque année. En 2025, le montant est de **1 500 euros**, versé en une seule fois. Ce montant est destiné à aider la mère à couvrir les frais liés à l'accouchement et à la prise en charge de l'enfant.
 
-| Type d'allocation                       | Montant (2023)           |
+| Type d'allocation                       | Montant (2025)           |
 |-----------------------------------------|---------------------------|
 | Allocation forfaitaire de repos maternel| 1 500 euros               |
 
@@ -85,7 +85,7 @@ La période de maternité peut être stressante, surtout avec la gestion des dé
 R : Toutes les femmes ayant un lien de filiation avec leur enfant et qui sont inscrites à la Sécurité sociale peuvent bénéficier de cette allocation.
 
 **Q : Comment se calcule le montant de l’allocation ?**  
-R : L’allocation est fixe et, en 2023, elle s'élève à 1 500 euros, versée en une seule fois.
+R : L’allocation est fixe et, en 2025, elle s'élève à 1 500 euros, versée en une seule fois.
 
 **Q : Quelles sont les démarches pour demander l’allocation ?**  
 R : Vous devez remplir un formulaire, fournir les pièces justificatives, puis envoyer le tout à votre caisse de sécurité sociale.

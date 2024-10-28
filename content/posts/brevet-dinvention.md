@@ -1,6 +1,6 @@
 ---
-title: "Durée de Brevet : Tout Ce Que Vous Devez Savoir en 2023"
-metaTitle: "Durée de Brevet : Guide Complet en 2023"
+title: "Durée de Brevet : Tout Ce Que Vous Devez Savoir en 2025"
+metaTitle: "Durée de Brevet : Guide Complet en 2025"
 metaDescription: "Découvrez tout sur la durée de brevet, les types de brevets et leur protection juridique en France."
 date: 2024-10-19T01:00:00Z
 image: /images/post/brevet-dinvention.webp

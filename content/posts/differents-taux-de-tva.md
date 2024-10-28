@@ -1,7 +1,7 @@
 ---
-title: "TVA : Tout savoir sur les taux et leur impact en 2023"
-metaTitle: "Comprendre les taux de TVA en 2023"
-metaDescription: "Découvrez les différents taux de TVA, notamment le taux de luxe, et leur impact sur les consommateurs en 2023."
+title: "TVA : Tout savoir sur les taux et leur impact en 2025"
+metaTitle: "Comprendre les taux de TVA en 2025"
+metaDescription: "Découvrez les différents taux de TVA, notamment le taux de luxe, et leur impact sur les consommateurs en 2025."
 date: 2024-11-21T01:00:00Z
 image: /images/post/differents-taux-de-tva.webp
 categories: ["entrepreneuriat"]

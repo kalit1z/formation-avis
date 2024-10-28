@@ -1,6 +1,6 @@
 ---
-title: "Guide Complet sur le Changement de Prénom en France en 2023"
-metaTitle: "Changement de Prénom : Guide Complet 2023"
+title: "Guide Complet sur le Changement de Prénom en France en 2025"
+metaTitle: "Changement de Prénom : Guide Complet 2025"
 metaDescription: "Découvrez comment changer de prénom en France : démarches, lois et conseils pratiques."
 date: 2024-10-27T01:00:00Z
 image: /images/post/changement-de-nom-ou-de-prenom.webp

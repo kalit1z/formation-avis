@@ -1,7 +1,7 @@
 ---
-title: "Comment Calculer Vos Impôts sur le Revenu : Guide Complet 2023"
-metaTitle: "Calcul Impôt sur le Revenu : Guide Pratique 2023"
-metaDescription: "Découvrez tout sur le calcul de l'impôt sur le revenu, des tranches aux simulateurs pour 2023."
+title: "Comment Calculer Vos Impôts sur le Revenu : Guide Complet 2025"
+metaTitle: "Calcul Impôt sur le Revenu : Guide Pratique 2025"
+metaDescription: "Découvrez tout sur le calcul de l'impôt sur le revenu, des tranches aux simulateurs pour 2025."
 date: 2024-10-19T01:00:00Z
 image: /images/post/calcul-de-limpot.webp
 categories: ["administratif"]
@@ -40,7 +40,7 @@ Ces abattements contribuent à réduire le montant total de votre revenu imposab
 
 ## Impôt sur le revenu calcul
 
-Le montant d'impôt payé dépend donc directement de votre revenu net imposable et des tranches d'imposition. Voici les tranches pour l'année 2023 :
+Le montant d'impôt payé dépend donc directement de votre revenu net imposable et des tranches d'imposition. Voici les tranches pour l'année 2025 :
 
 | Tranche de revenu imposable | Taux d'imposition |
 |-----------------------------|-------------------|
@@ -66,7 +66,7 @@ Vous ne paierez pas d'impôt si vos revenus imposables sont en dessous du seuil 
 
 ### Seuil pour payer des impôts
 
-Le seuil établi par la législation fiscale varie, mais celui-ci est déterminé par le revenu imposable. Pour l'année 2023, comme indiqué précédemment, ce montant est fixé à 10 777 €.
+Le seuil établi par la législation fiscale varie, mais celui-ci est déterminé par le revenu imposable. Pour l'année 2025, comme indiqué précédemment, ce montant est fixé à 10 777 €.
 
 ## Comment les impôts sont calculés
 
@@ -78,11 +78,11 @@ IMPÔT = (Revenu imposable - Abattements) × Taux d'imposition
 
 Cette formule illustre comment le revenu net, une fois déterminé, est multiplié par le taux marginal applicable.
 
-## Simulateur impôts 2023
+## Simulateur impôts 2025
 
 Pour faciliter le calcul de l'impôt, plusieurs simulateurs en ligne sont disponibles. Ces outils vous permettent d’obtenir une estimation rapide de votre impôt sur le revenu en entrant simplement vos données financières. Des sites comme impots.gouv.fr fournissent ces services gratuitement.
 
-### Simulateur impôts revenus 2023
+### Simulateur impôts revenus 2025
 
 Pour utiliser un simulateur, il suffit de suivre ces étapes :
 

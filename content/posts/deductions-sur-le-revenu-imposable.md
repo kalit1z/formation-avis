@@ -21,7 +21,7 @@ Les frais d'avocat peuvent être déduits des impôts dans certaines situations.
 
 Les pensions alimentaires sont également déductibles sous certaines conditions. Voici quelques éléments à considérer :
 
-- **Montant déductible** : Pour les pensions versées à un enfant majeur, le plafond de déduction est fixé à 6 012 € par an pour l'année 2023.
+- **Montant déductible** : Pour les pensions versées à un enfant majeur, le plafond de déduction est fixé à 6 012 € par an pour l'année 2025.
 - **Conditions de versement** : La pension doit être versée à un enfant à charge ou à un ex-conjoint en cas de divorce.
 
 Il est crucial de conserver toutes les preuves de versement pour justifier votre déduction lors de votre déclaration.

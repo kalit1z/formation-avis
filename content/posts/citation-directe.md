@@ -6,7 +6,7 @@ date: 2024-10-28T01:00:00Z
 image: /images/post/citation-directe.webp
 categories: ["judiciaire"]
 featured: true
-draft: true
+draft: false
 ---
 
 La citation directe est un acte juridique qui permet à une victime d'un délit de faire poursuivre directement l'auteur en justice, sans passer par une phase d'enquête préliminaire. Ce processus revêt une importance particulière dans le système judiciaire français, car il donne à la victime un pouvoir d'action sur la conduite de la procédure pénale. Dans cet article, nous allons explorer le concept de citation directe, son encadrement par le code de procédure pénale, ses modèles d'utilisation, et divers aspects notamment en lien avec des blessures, la diffamation, et la justice.

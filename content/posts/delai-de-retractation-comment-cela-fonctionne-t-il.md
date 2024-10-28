@@ -1,5 +1,5 @@
 ---
-title: "Tout savoir sur le droit de rétractation : Guide complet 2023"
+title: "Tout savoir sur le droit de rétractation : Guide complet 2025"
 metaTitle: "Délai de rétractation : tout ce qu'il faut savoir"
 metaDescription: "Découvrez les droits liés au délai de rétractation, que ce soit en magasin ou en ligne. Informez-vous sur la loi en vigueur."
 date: 2024-11-19T01:00:00Z

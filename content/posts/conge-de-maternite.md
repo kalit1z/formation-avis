@@ -1,7 +1,7 @@
 ---
-title: "Tout savoir sur la durée du congé maternité en 2023"
-metaTitle: "Durée du congé maternité en 2023 : Guide complet"
-metaDescription: "Découvrez tout sur la durée du congé maternité en 2023, y compris les dates et les spécificités pour les jumeaux."
+title: "Tout savoir sur la durée du congé maternité en 2025"
+metaTitle: "Durée du congé maternité en 2025 : Guide complet"
+metaDescription: "Découvrez tout sur la durée du congé maternité en 2025, y compris les dates et les spécificités pour les jumeaux."
 date: 2024-11-07T01:00:00Z
 image: /images/post/conge-de-maternite.webp
 categories: ["travailleurs"]

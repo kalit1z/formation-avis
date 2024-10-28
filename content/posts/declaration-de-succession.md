@@ -1,5 +1,5 @@
 ---
-title: "Déclaration de succession : Guide complet pour réussir 2023"
+title: "Déclaration de succession : Guide complet pour réussir 2025"
 metaTitle: "Déclaration de succession : Tout savoir pour bien gérer"
 metaDescription: "Découvrez tout sur la déclaration de succession en France : modalités, enjeux et conseils pratiques."
 date: 2024-11-15T01:00:00Z

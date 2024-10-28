@@ -35,9 +35,9 @@ Les honoraires des avocats sont fixés selon un barème défini par l’Article 
 
 Le montant de l'aide juridictionnelle dépend en grande partie du plafond des ressources de la personne qui en fait la demande. Ces plafonds changent régulièrement, et il est crucial de se tenir informé des dernières mises à jour.
 
-### Plafond Aide Juridictionnelle 2023
+### Plafond Aide Juridictionnelle 2025
 
-Pour l'année 2023, les plafonds de ressources mensuelles sont les suivants :
+Pour l'année 2025, les plafonds de ressources mensuelles sont les suivants :
 - **Personne seule** : 1 032 €.
 - **Couple** : 1 525 €.
 
@@ -47,7 +47,7 @@ Ces chiffres peuvent varier en fonction des différentes charges familiales (enf
 
 Pour 2024, les plafonds devraient connaître une légère augmentation, mais restent encore à confirmer par la publication des textes réglementaires.
 
-| Situation       | Plafond 2023 | Plafond 2024 (prévision) |
+| Situation       | Plafond 2025 | Plafond 2024 (prévision) |
 |----------------|--------------|--------------------------|
 | Personne seule  | 1 032 €      | 1 100 € (estimé)        |
 | Couple          | 1 525 €      | 1 600 € (estimé)        |
