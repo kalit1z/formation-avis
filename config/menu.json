@@ -5,51 +5,38 @@
       "url": "/"
     },
     {
-      "name": "À Propos",
-      "url": "/about"
-    },
-    {
-      "name": "Notre guide",
-      "url": "https://www.fastercook.fr/avocat"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Conseils",
+      "name": "Réseaux Sociaux",
       "url": "/categories",
       "hasChildren": true,
       "children": [
         {
-          "name": "Administratif",
-          "url": "/categories/administratif"
+          "name": "TikTok",
+          "url": "/categories/tiktok"
         },
         {
-          "name": "Aides",
-          "url": "/categories/aide"
+          "name": "Instagram",
+          "url": "/categories/instagram"
         },
         {
-          "name": "Entrepreneuriat",
-          "url": "/categories/entrepreneuriat"
-        },
-        {
-          "name": "Familiale",
-          "url": "/categories/familiale"
-        },
-        {
-          "name": "Finance",
-          "url": "/categories/finance"
-        },
-        {
-          "name": "Judiciaire",
-          "url": "/categories/judiciaire"
-        },
-        {
-          "name": "Travailleurs",
-          "url": "/categories/travailleurs"
+          "name": "YouTube",
+          "url": "/categories/youtube"
         }
       ]
+    },
+    {
+      "name": "Business en Ligne",
+      "url": "/categories",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "E-commerce et Dropshipping",
+          "url": "/categories/e-commerce"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [

@@ -1,3 +1,3 @@
 ---
-title: "Nos Posts"
+title: "Nos Avis"
 ---

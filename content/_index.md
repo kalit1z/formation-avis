@@ -1,14 +1,14 @@
 ---
 banner:
-  title: "Mon Annuaire Avocat"
-  title_small: "trouvez l’expert qu’il vous faut."
-  content: "Nous connectons les personnes à la recherche d'un avocat avec des professionnels qualifiés. Décrivez votre situation et recevez des devis personnalisés pour vous aider à choisir le meilleur avocat pour votre besoin."
+  title: "Formation Avis"
+  title_small: "Comparez et choisissez la meilleure formation."
+  content: "Nous vous aidons à découvrir des avis fiables sur les formations en ligne. Comparez, évaluez et trouvez celle qui correspond le mieux à vos objectifs."
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/banner-author.webp
   button:
-    enable: false
-    label: Know About Me
-    link: /about
+    enable: true
+    label: Découvrir
+    link: /categories
     rel: ""
 
 featured_posts:
@@ -17,11 +17,12 @@ featured_posts:
 
 promotion:
   enable: true
-  image: /images/promotion.png
-  link: "https://www.fastercook.fr/avocat"
+  image: /images/promotion.webp
+  link: "https://www.bonzai.pro/bonzaipremium?offers=launch&bp=t_6v2m_2957"
 
 recent_posts:
-  title: Posts récent
+  title: Avis récents
   enable: true
+
 
 ---

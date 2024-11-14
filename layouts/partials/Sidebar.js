@@ -118,15 +118,6 @@ const Sidebar = ({ posts, categories, className }) => {
                     }`}
                     key={`key-${i}`}
                   >
-                    {post.frontmatter.image && (
-                      <ImageFallback
-                        className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
-                        src={post.frontmatter.image}
-                        alt={post.frontmatter.title}
-                        width={105}
-                        height={85}
-                      />
-                    )}
                     <div>
                       <h3 className="h5 mb-2">
                         <Link
@@ -153,15 +144,6 @@ const Sidebar = ({ posts, categories, className }) => {
                     }`}
                     key={`key-${i}`}
                   >
-                    {post.frontmatter.image && (
-                      <ImageFallback
-                        className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
-                        src={post.frontmatter.image}
-                        alt={post.frontmatter.title}
-                        width={105}
-                        height={85}
-                      />
-                    )}
                     <div>
                       <h3 className="h5 mb-2">
                         <Link

@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Trouvez un Avocat Qualifié – Comparez les Experts Juridiques en France",
-    "base_url": "https://mon-annuaire-avocat.fr/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
+    "title": "Formation Avis - Guide & Retours sur les Meilleures Formations",
+    "base_url": "https://formation-avis.eu/",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.webp",
+    "logo_white": "/images/logo-light.webp",
     "logo_width": "200",
     "logo_height": "57",
-    "logo_text": "Comparez les Experts Juridiques en France"
+    "logo_text": "Votre Référence pour Comparer et Choisir la Meilleure Formation"
   },
   "settings": {
     "theme_switcher": true,
@@ -21,19 +21,19 @@
     "blog_folder": "posts"
   },
   "params": {
-    "tag_manager_id": "",
-    "footer_content": "Mon Annuaire Avocat vous permet de comparer plusieurs avocats spécialisés en fonction de votre situation. Recevez des devis personnalisés et trouvez l’assistance juridique qu’il vous faut.",
-    "copyright": "© 2024 Mon Annuaire Avocat. Tous droits réservés."
+    "tag_manager_id": "GTM-P7B5GPNF",
+    "footer_content": "Découvrez des avis fiables sur les formations en ligne et trouvez celle qui vous correspond. Nous sommes là pour vous aider à faire le meilleur choix.",
+    "copyright": "© 2024 Formation Avis. Tous droits réservés."
   },
   "metadata": {
     "meta_author": "Notre équipe",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Mon Annuaire Avocat vous permet de trouver rapidement un avocat compétent près de chez vous. Comparez les offres et choisissez la meilleure option."
+    "meta_image": "/images/og-image.webp",
+    "meta_description": "Formation Avis : lisez des critiques fiables pour comparer et choisir les meilleures formations adaptées à vos besoins."
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Besoin d’un avocat ? <br/> Comparez des devis et trouvez l’expert qu’il vous faut."
+      "content": "Trouver la Formation Parfaite <br/> Explorez notre sélection et trouvez des avis détaillés pour faire le meilleur choix."
     },
     "featured_posts": {
       "enable": true,
@@ -46,8 +46,8 @@
     },
     "newsletter": {
       "enable": true,
-      "title": "Préparez la Consultation",
-      "content": "Optimisez votre temps ! Recevez notre guide vous enseigne comment choisir le bon avocat et vous préparer efficacement avant la consultation.",
+      "title": "Comparez, Réussissez !",
+      "content": "Lisez les avis d'experts et d'utilisateurs pour sélectionner la formation idéale qui répond à vos ambitions.",
       "privacy_policy_page": "/mentions-legal"
     }
   },

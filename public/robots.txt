@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.mon-annuaire-avocat.fr
+Host: https://www.formation-avis.eu
 
 # Sitemaps
-Sitemap: https://www.mon-annuaire-avocat.fr/sitemap.xml
+Sitemap: https://www.formation-avis.eu/sitemap.xml

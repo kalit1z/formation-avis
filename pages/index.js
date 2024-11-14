@@ -44,14 +44,19 @@ const Home = ({
         <div className="container">
           <div className="row flex-wrap-reverse items-center justify-center lg:flex-row">
             <div className={banner.image_enable ? "mt-12 text-center lg:mt-0 lg:text-left lg:col-6" : "mt-12 text-center lg:mt-0 lg:text-left lg:col-12"}>
-              <div className="banner-title">
-                {markdownify(banner.title, "h1")}
-                {markdownify(banner.title_small, "span")}
-              </div>
+            <div className="banner-title">
+  <h1>
+    {markdownify(banner.title, "ts-22")}
+    <br/>
+    <small className="text-sm">
+      {markdownify(banner.title_small)}
+    </small>
+  </h1>
+</div>
               {markdownify(banner.content, "p", "mt-4")}
               {banner.button.enable && (
                   <Link
-                    className="btn btn-primary mt-6"
+                    className="btn btn-primary mt-6 mb-10"
                     href={banner.button.link}
                     rel={banner.button.rel}
                   >

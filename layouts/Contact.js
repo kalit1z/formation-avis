@@ -65,7 +65,7 @@ const Contact = ({ data }) => {
       
       <div className="mb-6">
         <label className="mb-2 block font-secondary" htmlFor="lawyerType">
-          Type d'avocat recherché
+          Type de formation recherché
           <small className="font-secondary text-sm text-primary">*</small>
         </label>
         <input

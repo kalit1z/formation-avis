@@ -10,10 +10,10 @@ import { slugify } from "@lib/utils/textConverter";
 
 const Categories = ({ categories }) => {
   return (
-    <Base title={"categories"}>
+    <Base title={"Développez vos Compétences en 2024"}>
       <section className="section pt-0">
         {markdownify(
-          "Categories",
+          "Découvrez nos catégories de formation",
           "h1",
           "h2 mb-16 bg-theme-light dark:bg-darkmode-theme-dark py-12 text-center lg:text-[55px]"
         )}

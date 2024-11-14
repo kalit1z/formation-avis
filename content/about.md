@@ -1,71 +1,68 @@
 ---
-title: Notre service d'annuaire d'avocats
-image: /images/author.png
-description: "Trouvez l'avocat idéal pour vos besoins juridiques grâce à notre service de mise en relation personnalisé"
+title: Nos avis de formations
+image: /images/author.webp
+description: "Trouvez la formation idéale pour vos objectifs grâce à nos avis et évaluations fiables"
 layout: about
 education:
-  title: Nos guides juridiques
+  title: Nos guides de formation
   degrees:
-    - university: "Guide du droit des affaires"
-      content: "Comprendre les bases • Créer son entreprise • Protéger ses actifs"
-    - university: "Guide du droit de la famille"
-      content: "Mariage et PACS • Divorce • Succession"
-    - university: "Guide du droit du travail"
-      content: "Contrats • Licenciement • Négociations collectives"
-    - university: "Guide du droit immobilier"
-      content: "Achat • Location • Copropriété"  
+    - university: "Guide des formations en développement personnel"
+      content: "Gestion du stress • Leadership • Communication efficace"
+    - university: "Guide des formations en marketing digital"
+      content: "SEO • Réseaux sociaux • Publicité en ligne"
+    - university: "Guide des formations en informatique"
+      content: "Programmation • Cybersécurité • Développement web"
+    - university: "Guide des formations en finance"
+      content: "Comptabilité • Analyse financière • Investissements"  
 
 experience:
-  title: Nos domaines d'expertise
+  title: Nos domaines de formation
   list:
-    - Droit des affaires
-    - Droit de la famille
-    - Droit du travail
-    - Droit immobilier
-    - Droit pénal
-    - Droit de la propriété intellectuelle
-    - Droit fiscal
-    - Droit de l'environnement
-    - Droit international
-    - Médiation et arbitrage
+    - Développement personnel
+    - Marketing digital
+    - Informatique
+    - Finance
+    - Gestion de projet
+    - Santé et bien-être
+    - Langues étrangères
+    - Photographie et design
+    - Communication
+    - Entrepreneuriat
 
 ---
 
-<h2>Votre portail vers l'expertise juridique sur mesure</h2>
+<h2>Votre portail vers la formation idéale</h2>
 
-Notre service d'annuaire d'avocats est conçu pour simplifier votre recherche du professionnel juridique idéal. Nous mettons en relation les particuliers et les entreprises avec des avocats qualifiés, adaptés à leurs besoins spécifiques.
+Notre plateforme Formation Avis simplifie la recherche de formations en ligne adaptées à vos besoins. Découvrez des avis fiables et faites un choix éclairé pour atteindre vos objectifs.
 
 <h3>Notre proposition de valeur</h3>
 
-1. <strong>Mise en relation personnalisée</strong> : Notre algorithme avancé analyse vos besoins pour vous proposer les avocats les plus pertinents.
-
-2. <strong>Diversité d'expertise</strong> : Accédez à un vaste réseau d'avocats spécialisés dans différents domaines du droit.
-
-3. <strong>Transparence</strong> : Consultez les profils détaillés, les avis clients et les tarifs pour faire un choix éclairé.
-
-4. <strong>Gain de temps</strong> : Évitez les recherches interminables et trouvez rapidement le bon avocat pour votre situation.
+1. <strong>Évaluations personnalisées</strong> : Nos avis et retours d’expérience vous aident à choisir la formation la plus adaptée.
+2. <strong>Diversité de contenus</strong> : Accédez à un large éventail de domaines de formation, de la finance à la gestion de projet.
+3. <strong>Transparence</strong> : Consultez des avis détaillés et des retours d'utilisateurs pour décider en toute confiance.
+4. <strong>Gain de temps</strong> : Parcourez rapidement des avis sur les formations pour trouver celle qui correspond le mieux à vos ambitions.
 
 <h2>Ressources pour vous guider</h2>
 
-En plus de notre service de mise en relation, nous offrons des ressources précieuses pour vous aider à naviguer dans le monde juridique :
+En plus des avis, nous proposons des guides pour vous aider à comprendre les compétences que chaque formation peut vous apporter.
 
 <h3>Guides pratiques</h3>
 
-Nos guides couvrent les principaux domaines du droit, vous permettant de mieux comprendre vos droits et options avant de consulter un avocat.
+Nos guides couvrent les principaux domaines de formation, vous permettant de mieux cerner les compétences développées avant de faire votre choix.
 
-<h3>Articles juridiques</h3>
+<h3>Articles sur la formation</h3>
 
-Restez informé des dernières évolutions juridiques grâce à nos articles rédigés par des experts du droit.
+Restez informé des dernières tendances et astuces pour réussir dans votre parcours d’apprentissage, grâce à nos articles rédigés par des experts.
 
 <h2>Un accompagnement à chaque étape</h2>
 
-Que vous ayez besoin de conseils pour créer votre entreprise, gérer un divorce ou résoudre un litige commercial, notre plateforme vous accompagne à chaque étape de votre parcours juridique.
+Que vous cherchiez à développer des compétences en leadership, à maîtriser le marketing digital ou à apprendre une nouvelle langue, notre plateforme vous accompagne à chaque étape de votre parcours.
 
 <h3>Comment ça marche ?</h3>
 
-1. Décrivez votre besoin juridique via notre formulaire en ligne.
-2. Recevez une sélection d'avocats correspondant à vos critères.
-3. Comparez les profils et choisissez l'avocat qui vous convient.
-4. Prenez rendez-vous directement via notre plateforme.
+1. Décrivez vos objectifs de formation via notre formulaire en ligne.
+2. Recevez des suggestions de formations correspondant à vos besoins.
+3. Comparez les avis et choisissez la formation qui vous convient.
+4. Inscrivez-vous directement via notre plateforme.
 
-Faites confiance à notre service pour trouver l'avocat qui saura répondre à vos besoins spécifiques, en toute simplicité et en toute confiance.
+Faites confiance à notre service pour trouver la formation qui répond à vos ambitions, facilement et en toute confiance.
