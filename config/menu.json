@@ -24,6 +24,17 @@
       ]
     },
     {
+      "name": "Marketing Digital",
+      "url": "/categories",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Media Buying",
+          "url": "/categories/media-buying"
+        }
+      ]
+    },
+    {
       "name": "Business en Ligne",
       "url": "/categories",
       "hasChildren": true,
