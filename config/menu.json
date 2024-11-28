@@ -42,6 +42,10 @@
         {
           "name": "E-commerce et Dropshipping",
           "url": "/categories/e-commerce"
+        },
+        {
+          "name": "Infoproduit",
+          "url": "/categories/infoproduits"
         }
       ]
     },
