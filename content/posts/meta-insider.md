@@ -5,7 +5,7 @@ metaDescription: "Découvrez notre analyse approfondie de la formation Meta Insi
 date: 2024-11-20T01:00:00Z
 image: /images/post/meta-insiders.webp
 categories: ["media-buying"]
-featured: true
+featured: false
 draft: false
 ---
 

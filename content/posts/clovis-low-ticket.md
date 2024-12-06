@@ -5,7 +5,7 @@ metaDescription: "Découvrez notre analyse approfondie de la formation Marketing
 date: 2024-11-28T01:00:00Z
 image: /images/post/clovis-low-ticket.webp
 categories: ["infoproduits"]
-featured: true
+featured: false
 draft: false
 ---
 
