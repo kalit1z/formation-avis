@@ -3,7 +3,7 @@ title: "Tugan RX 2.0 Avis : La Formation Business par Tugan Bara"
 metaTitle: "Tugan RX 2.0 Avis | Formation Business complète"
 metaDescription: "Découvrez notre analyse approfondie de la formation Tugan RX 2.0 : une formation complète couvrant l'affiliation, le web3, l'IA, le no-code et bien plus encore."
 date: 2025-01-13T01:00:00Z
-image: /images/post/tugan-rx2.webp
+image: /images/post/tugan-rx.webp
 categories: ["infoproduits"]
 featured: true
 draft: false
